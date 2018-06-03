@@ -1,0 +1,172 @@
+ @media screen and (max-width: 480px) {
+ 	.brand-hero {
+	background:url("../images/bg.png") no-repeat center center;
+	background-size: 100% 100%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin: 0;
+	padding: 0;
+	min-height: 500px;
+	}
+ 	.create-brand {
+	font-size: 36px; 
+	line-height: 1;
+	}
+	.with-celebrities {
+	font-size: 18px;
+	line-height: 1;
+	}
+	.order-button {
+	width: 200px;
+	height: 40px;
+	font-size: 18px;
+	border-radius: 2px;
+	}
+	.bbb {
+		height: 16px;
+		width: 26px;
+	}
+	/*-----------Section-2----------------------------------------*/
+	.container {
+	width: 400px;
+	margin: 0 auto;
+	}
+	.partners-main-text {
+	font-weight: 400px;
+	font-size: 18px;
+	letter-spacing: 0.05em;
+	margin-left: 40px;
+	}
+	.who-are {
+	font-weight: 200;
+	font-size: 30px;
+	}
+	.bid-text-paragraph {
+	font-weight: 500;
+	font-size: 18px;
+	}
+	.btn {
+	width: 200px;
+	height: 40px;
+	border-radius: 2px;
+	font-size:18px;
+	}
+
+/*--------------section-3---------------------------------*/
+	.pos {
+	margin-top: -5px;
+	margin-left: 45px;
+	margin-right: 45px;
+	}
+	.text1 {
+	font-size:26px;
+	}
+	.text2 {
+	font-size: 22px;
+	}
+	.text3 {
+	font-size: 20px;
+	}
+	.pos2 img {
+	margin-top: 15px;
+	border:none;
+	padding:20px;
+	margin-right:20px;
+	margin-left:20px;
+	}
+	.button {
+	margin-top: 10px;
+	margin-left: 20%;
+	}
+	.button_text {
+	font-size: 18px;
+	margin-bottom: 45px;
+	}
+
+/*--------------------about_us-------------------------------------------------*/
+	html,body {
+	font-family: "Gill Sans";
+	font-size: 10px;
+	font-weight: 575;
+	}
+	.header-text {
+	height: 3%;
+	width: 100%;
+	padding: 15px;
+	font-size: 23px;
+	}
+	.text-header {
+	height: 3%;
+	width: 100%;
+	font-size: 13px;
+	}
+	.text-style { 
+	font-size: large;
+	margin-left: 10px;
+	}
+	.all_attrs{
+	display: flex;
+	flex-direction: column ;
+	align-items: center;
+	justify-content: space-between;
+	margin-top: 7%;
+	}
+	.guitar {
+	width: 90%;
+	height: 70%;
+	justify-content: center;
+	margin: 3px 0;
+	color: #EFEFEF;
+	}
+	.text-style {
+	font-size: large;
+	margin-left: 5px;
+	}
+	.line_in{
+	margin-top:25px;
+	}
+	.order-button-2{
+	margin-top: 8%;
+	width: 200px;
+	height: 38px;
+	font-size: 22px;
+	border-radius: 4px;
+	color:#5C1C86;
+	background-color: #EfEfEf;
+	font-family: 'Gill Sans';
+	border: 0px;
+	}
+ /*---------------Section-4-----------------------------------------*/
+ 	.our-work-header h2{
+	color:#FAFAFA;
+	font-size: 30px;
+	}
+	.our-work-header p{
+	color:#EFEFEF;
+	font-size: 20px;
+	}
+	.first-card,.second-card, .third-card, .fourth-card{
+	margin: 20px 0 30px 0; 
+	}
+	.i-want-it-button{
+	margin: 50px 0;
+	width:200px;
+	height: 40px;
+	border-radius:2px;
+	font-size:24px;
+	}
+	/*--------------section-clients--------------------------------------------*/
+	.clients-head-text{
+	font-size: 30px;
+	line-height: 1;
+	}
+	.clients-text{
+	font-size: 20px;
+	line-height: 1.5;
+	}
+	.clients-logos img{
+	margin: 50px 0 0 0; 
+	width: 100px;
+	height: 40px;
+	}
+}
